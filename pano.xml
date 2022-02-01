@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node13" appversion="6.1.11" apprev="18043">
+  <panorama id="node13">
+    <input height="4000" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4000" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4000" width="4000" predecode="0" preload="0"/>
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="43.1713" fovmode="0">
+      <start tilt="-18.4318" pan="15.294" fov="89.3974" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node13" author="" longitude="60.63939482" source="" comment="" info="" tags="Собранные" latitude="56.81731248" copyright="" datetime="2021.10.23" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" heading="43.1713"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="-30.73" skinid="ht_node" pan="-281.81" id="Point01" title="Вокзал Свердловской детской железной дороги" description="Здание Вокзала Свердловской детской железной дороги" url="{node11}"/>
+      <hotspot distance="15.2539" target="" tilt="-27.58" skinid="ht_node" pan="-308.13" id="Point03" title="Холл 3 этажа Вокзала" description="Холл 3 этажа Вокзала Свердловской детской железной дороги" url="{node12}"/>
+      <hotspot distance="28.0184" target="" tilt="-49.85" skinid="ht_node" pan="-335.01" id="Point04" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="Кабинет &quot;Вагонное хозяйство&quot;" url="{node6}"/>
+      <hotspot distance="29.3503" target="" tilt="-19.55" skinid="ht_node" pan="-321.05" id="Point05" title="Актовый зал" description="Актовый зал Свердловской детской железной дороги " url="{node10}"/>
+      <hotspot distance="26.825" target="" tilt="-44.53" skinid="ht_node" pan="-334.04" id="Point07" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot; " url="{node5}"/>
+      <hotspot distance="77.8502" target="" tilt="-15.8" skinid="ht_node" pan="-31.44" id="Point08" title="Станция &quot;Екатерибург-Детский&quot; " description="Платформа станции &quot;Екатерибург-Детский&quot; " url="{node16}"/>
+      <hotspot distance="36.0841" target="" tilt="-32.58" skinid="ht_node" pan="-346.85" id="Point09" title="Станция &quot;Екатерибург-Детский&quot; " description="Платформа станции &quot;Екатерибург-Детский&quot; " url="{node15}"/>
+      <hotspot distance="259.95" target="" tilt="-5.03" skinid="ht_node" pan="-25.5" id="Point10" title="Лаборатория &quot;Управление паровозом&quot;" description="Лаборатория &quot;Управление паровозом&quot;" url="{node44}"/>
+      <hotspot distance="222.166" target="" tilt="-9.71" skinid="ht_node" pan="-33.56" id="Point11" title="Музей УЖД" description="Станция &quot;Центральная&quot;, Музей УЖД" url="{node18}"/>
+      <hotspot distance="253.196" target="" tilt="1.75" skinid="ht_node" pan="-33.87" id="Point06" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node14}"/>
+      <hotspot distance="444.679" target="" tilt="-2.76" skinid="ht_node" pan="-51.2" id="Point12" title=" ДТ Кванториум 1 этаж" description=" ДТ Кванториум, 1 этаж" url="{node41}"/>
+      <hotspot distance="96.8343" target="" tilt="1.63" skinid="ht_node" pan="-356.76" id="Point13" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node53}"/>
+      <hotspot distance="258.328" target="" tilt="-5.05" skinid="ht_node" pan="-36.09" id="Point02" title="Музей УЖД" description="Выставочные пути, Музей УЖД" url="{node19}"/>
+      <hotspot target="" tilt="-10.29" skinid="ht_node" pan="-42.62" id="Point14" title="Станция &quot;Екатерибург-Детский&quot; " description="Платформа станции &quot;Екатерибург-Детский&quot; " url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01">
+      <clip cliptitle="Clip01" length="100" nodeid="" nextclipstartview="-3.58/-33.78/62.0442/4" animtitle="Animation01" transitiontype="0" animtype="0" nextclipnodeid="node13" nextcliptitle="Clip01">
+        <keyframe transitiontime="0" time="0" additionaltrackid="" valuestring="" value="-3.58" property="0" type="0"/>
+        <keyframe transitiontime="0" time="0" additionaltrackid="" valuestring="" value="-33.78" property="1" type="0"/>
+        <keyframe transitiontime="0" time="0" additionaltrackid="" valuestring="" value="62.0442" property="2" type="0"/>
+        <keyframe transitiontime="25" time="0" additionaltrackid="" valuestring="" value="4" property="3" type="0"/>
+        <keyframe transitiontime="10" time="100" additionaltrackid="" valuestring="" value="9" property="3" type="0"/>
+        <keyframe transitiontime="0" bezierintime="35" time="50" additionaltrackid="" valuestring="" bezierouttime="10050" value="-1.96" property="0" bezierinvalue="-1.96" bezieroutvalue="-1.96" type="2"/>
+        <keyframe transitiontime="0" bezierintime="35" time="50" additionaltrackid="" valuestring="" bezierouttime="10050" value="51.53" property="2" bezierinvalue="51.53" bezieroutvalue="51.53" type="2"/>
+        <keyframe transitiontime="0" bezierintime="35" time="50" additionaltrackid="" valuestring="" bezierouttime="10050" value="-31.77" property="1" bezierinvalue="-31.77" bezieroutvalue="-31.77" type="2"/>
+      </clip>
+    </animation>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="4121" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4121" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4121" width="4121" predecode="0" preload="0"/>
+      <level height="2060" width="2060" predecode="0" preload="0"/>
+      <level height="1030" width="1030" predecode="0" preload="0"/>
+      <level height="515" width="515" predecode="0" preload="0"/>
+      <level height="257" width="257" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="65.943" fovmode="0">
+      <start tilt="8.55972" pan="-16.7535" fov="113.216" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node11" author="" longitude="60.63939482" source="" comment="" info="" tags="Собранные" latitude="56.81731248" copyright="" datetime="2021.10.23" title="Вокзал Свердловской детской железной дороги" description="Вокзал Свердловской детской железной дороги" heading="65.943"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="15.2539" target="" tilt="37.42" skinid="ht_node" pan="-11.93" id="Point01" title="Холл 3 этажа Вокзала" description="Холл 3 этажа Вокзала Свердловской детской железной дороги" url="{node12}"/>
+      <hotspot target="" tilt="5.07" skinid="ht_node" pan="-51.52" id="Point02" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" url="{node2}"/>
+      <hotspot target="" tilt="28.33" skinid="ht_node" pan="-77.57" id="Point03" title="Вокзал Свердловской детской железной дороги" description="Свердловская детская железная дорога" url="{node11}"/>
+      <hotspot distance="17.7021" target="" tilt="7.87" skinid="ht_node" pan="-344.66" id="Point04" title="Кабинет &quot;Вагонного хозяйства&quot;" description="Кабинет &quot;Вагонное хозяйство&quot;" url="{node1}"/>
+      <hotspot distance="26.825" target="" tilt="26.83" skinid="ht_node" pan="-28.55" id="Point05" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot; " url="{node5}"/>
+      <hotspot distance="28.0184" target="" tilt="26.65" skinid="ht_node" pan="-46.9" id="Point06" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot; " url="{node6}"/>
+      <hotspot distance="96.8343" target="" tilt="33.04" skinid="ht_node" pan="-337.76" id="Point07" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node53}"/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" blinding="50.000" tilt="54.290" pan="-144.350" id="Lensflare01" type="1"/>
+    </media>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="292.945" fovmode="0">
+      <start tilt="-1.16124" pan="127.234" fov="82.3206" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node2" author="" longitude="60.63939482" source="" comment="" info="" tags="Собранные" latitude="56.81731248" copyright="" datetime="2021.10.23" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" heading="292.945"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="6.31851" target="" tilt="1.27" skinid="ht_node" pan="-242.78" id="Point02" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" url="{node4}"/>
+      <hotspot distance="0.851983" target="" tilt="-9.89" skinid="ht_node" pan="-4.82" id="Point03" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" url="{node3}"/>
+      <hotspot target="" tilt="16.09" skinid="ht_node" pan="-298.48" id="Point04" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-4.2454" pan="4.38116" fov="62.0442" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node4" author="" longitude="60.63940554" source="" comment="" info="" tags="Собранные" latitude="56.81725596" copyright="" datetime="2021.10.23" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="6.31851" target="" tilt="0.74" skinid="ht_node" pan="-311.94" id="Point01" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" url="{node2}"/>
+      <hotspot distance="6.21606" target="" tilt="0.94" skinid="ht_node" pan="-297.82" id="Point02" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" url="{node3}"/>
+      <hotspot distance="6.31851" target="" tilt="65.13" skinid="ht_node" pan="-146.73" id="Point03" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-13.0639" pan="-7.55098" fov="94.8019" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node3" author="" longitude="60.63938141" source="" comment="" info="" tags="Собранные" latitude="56.81731028" copyright="" datetime="2021.10.23" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="6.21606" target="" tilt="2.5" skinid="ht_node" pan="-223.14" id="Point02" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" url="{node4}"/>
+      <hotspot distance="0.851983" target="" tilt="77.32" skinid="ht_node" pan="-206.46" id="Point03" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node13}"/>
+      <hotspot distance="0.851983" target="" tilt="37.51" skinid="ht_node" pan="-242.36" id="Point04" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node13}"/>
+      <hotspot distance="16.1054" target="" tilt="25.79" skinid="ht_node" pan="-140.37" id="Point05" title="Холл 3 этажа Вокзала" description="Холл 3 этажа Вокзала Свердловской детской железной дороги" url="{node12}"/>
+      <hotspot distance="0.851983" target="" tilt="-4.13" skinid="ht_node" pan="-178" id="Point06" title="Кабинет &quot;Управление подвижным составом&quot;" description="Кабинет &quot;Управление подвижным составом&quot;" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node12" author="" longitude="60.63963220" source="" comment="" info="" tags="Собранные" latitude="56.81735652" copyright="" datetime="2021.10.23" title="Холл 3 этажа Вокзала " description="Холл 3 этажа Вокзала" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="16.0502" target="" tilt="-17.79" skinid="ht_node" pan="-353.71" id="Point01" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot; " url="{node5}"/>
+      <hotspot distance="13.615" target="" tilt="-5.23" skinid="ht_node" pan="-284.06" id="Point02" title="Кабинет &quot;Терминально-логистического комплекса&quot;" description="Кабинет &quot;Терминально-логистического комплекса&quot;" url="{node7}"/>
+      <hotspot distance="15.2539" target="" tilt="-5.29" skinid="ht_node" pan="-118.84" id="Point03" title="Вокзал Свердловской детской железной дороги" description="Здание Вокзала Свердловской детской железной дороги" url="{node11}"/>
+      <hotspot distance="15.5628" target="" tilt="-60.35" skinid="ht_node" pan="-176.9" id="Point04" title="Кабинет &quot;Вагонного хозяйства&quot;" description="" url="{node1}"/>
+      <hotspot distance="15.2539" target="" tilt="-17.22" skinid="ht_node" pan="-71.51" id="Point05" title="Кабинет &quot;Управление подвижным составом&quot;" description="" url="{node2}"/>
+      <hotspot distance="15.5418" target="" tilt="20.43" skinid="ht_node" pan="-258.54" id="Point06" title="Актовый зал" description="" url="{node10}"/>
+      <hotspot distance="15.2539" target="" tilt="27.74" skinid="ht_node" pan="-92.35" id="Point08" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="238.327" target="" tilt="17.42" skinid="ht_node" pan="-318.77" id="Point09" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="22.01" target="" tilt="3.67" skinid="ht_node" pan="-339.95" id="Point10" title="Станция &quot;Екатерибург-Детский&quot; " description="" url="{node15}"/>
+      <hotspot distance="82.5245" target="" tilt="65.33" skinid="ht_node" pan="-237.65" id="Point11" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-3.50697" pan="6.73122" fov="94.8019" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node1" author="" longitude="60.63947261" source="" comment="" info="" tags="Собранные" latitude="56.81746588" copyright="" datetime="2021.10.23" title="Кабинет &quot;Вагонного хозяйства&quot;" description="Кабинет &quot;Вагонного хозяйства&quot;" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="17.7021" target="" tilt="67.52" skinid="ht_node" pan="-46.86" id="Point01" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node13}"/>
+      <hotspot distance="247.189" target="" tilt="12.76" skinid="ht_node" pan="-342.74" id="Point03" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node14}"/>
+      <hotspot distance="22.8138" target="" tilt="39.54" skinid="ht_node" pan="-359.37" id="Point05" title="Кабинет &quot;Терминально-логистического комплекса&quot;" description="Кабинет &quot;Терминально-логистического комплекса&quot;" url="{node7}"/>
+      <hotspot distance="17.7021" target="" tilt="7.38" skinid="ht_node" pan="-105.57" id="Point06" title="Вокзал Свердловской детской железной дороги" description="Здание Вокзала Свердловской детской железной дороги" url="{node11}"/>
+      <hotspot distance="15.5628" target="" tilt="25.1" skinid="ht_node" pan="-23.83" id="Point02" title="Холл 3 этажа Вокзала" description="Холл 3 этажа Вокзала Свердловской детской железной дороги" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-1.49358" pan="-0.518948" fov="111.571" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node5" author="" longitude="60.63982397" source="" comment="" info="" tags="Собранные" latitude="56.81725743" copyright="" datetime="2021.10.23" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="16.0502" target="" tilt="-2.5" skinid="ht_node" pan="-250.48" id="Point01" title="Холл 3 этажа Вокзала " description="" url="{node12}"/>
+      <hotspot distance="26.825" target="" tilt="50.32" skinid="ht_node" pan="-128.07" id="Point02" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="3.59533" target="" tilt="-9.7" skinid="ht_node" pan="-86.63" id="Point03" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="" url="{node6}"/>
+      <hotspot distance="16.9857" target="" tilt="-1.49" skinid="ht_node" pan="-284.3" id="Point04" title="Кабинет &quot;Терминально-логистического комплекса&quot;" description="" url="{node7}"/>
+      <hotspot distance="228.07" target="" tilt="39.07" skinid="ht_node" pan="-360" id="Point06" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="1.92402" pan="14.9527" fov="104.498" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node6" author="" longitude="60.63982666" source="" comment="" info="" tags="Собранные" latitude="56.81722513" copyright="" datetime="2021.10.23" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.59533" target="" tilt="1.81" skinid="ht_node" pan="-124.45" id="Point01" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="" url="{node5}"/>
+      <hotspot distance="28.0184" target="" tilt="37.11" skinid="ht_node" pan="-318.13" id="Point03" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="228.464" target="" tilt="19.66" skinid="ht_node" pan="-132.97" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-2.74085" pan="-14.0632" fov="81.9177" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node7" author="" longitude="60.63983336" source="" comment="" info="" tags="Собранные" latitude="56.81741010" copyright="" datetime="2021.10.23" title="Кабинет &quot;Терминально-логистического комплекса&quot;" description="Кабинет &quot;Терминально-логистического комплекса&quot;" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="13.615" target="" tilt="2.58" skinid="ht_node" pan="-351.66" id="Point01" title="Холл 3 этажа Вокзала " description="Холл 3 этажа Вокзала Свердловской детской железной дороги" url="{node12}"/>
+      <hotspot distance="16.9857" target="" tilt="-0.4" skinid="ht_node" pan="-321.58" id="Point03" title="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot;" description="Кабинет &quot;Автоматики, телемеханики, электро-снабжения&quot; " url="{node5}"/>
+      <hotspot distance="225.627" target="" tilt="24.41" skinid="ht_node" pan="-195.94" id="Point04" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="28.8117" target="" tilt="25.9" skinid="ht_node" pan="-21.66" id="Point05" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.839789" pan="-3.85042" fov="96.6018" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node10" author="" longitude="60.63978240" source="" comment="" info="" tags="Собранные" latitude="56.81746956" copyright="" datetime="2021.10.23" title="Актовый зал" description="Актовый зал" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="29.3503" target="" tilt="43.58" skinid="ht_node" pan="-23.63" id="Point01" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="15.5418" target="" tilt="-1.36" skinid="ht_node" pan="-76.08" id="Point02" title="Холл 3 этажа Вокзала " description="Холл 3 этажа Вокзала Свердловской детской железной дороги" url="{node12}"/>
+      <hotspot distance="7.30288" target="" tilt="-16.85" skinid="ht_node" pan="-13.4" id="Point03" title="Кабинет &quot;Терминально-логистического комплекса&quot;" description="Кабинет &quot;Терминально-логистического комплекса&quot;" url="{node7}"/>
+      <hotspot distance="29.3503" target="" tilt="-1.27" skinid="ht_node" pan="-132.55" id="Point04" title="Вокзал Свердловской детской железной дороги" description="Здание Вокзала Свердловской детской железной дороги" url="{node11}"/>
+      <hotspot distance="228.336" target="" tilt="3.05" skinid="ht_node" pan="-338.97" id="Point05" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node14}"/>
+      <hotspot distance="67.4885" target="" tilt="15.73" skinid="ht_node" pan="-287.2" id="Point06" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-1.63232" pan="-3.64437" fov="76.2155" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node15" author="" longitude="60.63998759" source="" comment="" info="" tags="Собранные" latitude="56.81731982" copyright="" datetime="2021.10.23" altitude="5.00" title="Станция &quot;Екатерибург-Детский&quot; " description="Станция &quot;Екатерибург-Детский&quot; " heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="22.01" target="" tilt="-2.68" skinid="ht_node" pan="-149.68" id="Point01" title="Холл 3 этажа Вокзала " description="Холл 3 этажа Вокзала Свердловской детской железной дороги" url="{node12}"/>
+      <hotspot distance="42.2748" target="_parent" tilt="-0.95" skinid="ht_node" pan="-359.6" id="Point02" title="Станция &quot;Екатерибург-Детский&quot; " description="Платформа станции &quot;Екатерибург-Детский&quot; " url="{node16}"/>
+      <hotspot distance="70.9231" target="" tilt="20.09" skinid="ht_node" pan="-299.59" id="Point03" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node53}"/>
+      <hotspot distance="36.0841" target="" tilt="19.74" skinid="ht_node" pan="-95.47" id="Point04" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.46642" pan="162.027" fov="99.3593" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node16" author="" longitude="60.64066753" source="" comment="" info="" tags="Собранные" latitude="56.81724201" copyright="" datetime="2021.10.23" title="Станция &quot;Екатерибург-Детский&quot; " description="Станция &quot;Екатерибург-Детский&quot; " heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="42.2748" target="" tilt="0.01" skinid="ht_node" pan="-254.15" id="Point01" title="Станция &quot;Екатерибург-Детский&quot; " description="" url="{node15}"/>
+      <hotspot distance="77.8502" target="" tilt="0.39" skinid="ht_node" pan="-78.82" id="Point02" title="Станция &quot;Екатерибург-Детский&quot; " description="" url="{node17}"/>
+      <hotspot distance="177.784" target="" tilt="15.75" skinid="ht_node" pan="-51.9" id="Point03" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node14}"/>
+      <hotspot distance="77.8502" target="" tilt="12.28" skinid="ht_node" pan="-203.89" id="Point04" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node13}"/>
+      <hotspot distance="66.6031" target="" tilt="18.28" skinid="ht_node" pan="-336.97" id="Point05" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input height="3750" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3750" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="3750" width="3750" predecode="0" preload="0"/>
+      <level height="1875" width="1875" predecode="0" preload="0"/>
+      <level height="937" width="937" predecode="0" preload="0"/>
+      <level height="468" width="468" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="64.1414" fovmode="0">
+      <start tilt="-1.55573" pan="-6.70477" fov="83.1788" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node17" author="" longitude="60.63939482" source="" comment="" info="" tags="Собранные" latitude="56.81731248" copyright="" datetime="2021.10.23" title="Станция &quot;Екатерибург-Детский&quot; " description="Станция &quot;Екатерибург-Детский&quot; " heading="64.1414"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="77.8502" target="" tilt="-1.73" skinid="ht_node" pan="-34.92" id="Point01" title="Станция &quot;Екатерибург-Детский&quot; " description="" url="{node16}"/>
+      <hotspot distance="253.196" target="" tilt="21.83" skinid="ht_node" pan="-171.54" id="Point02" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node14}"/>
+      <hotspot distance="96.8343" target="" tilt="17.16" skinid="ht_node" pan="-101.04" id="Point03" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node53}"/>
+      <hotspot distance="444.679" target="" tilt="1.62" skinid="ht_node" pan="-204.37" id="Point04" title=" ДТ Кванториум 1 этаж" description="" url="{node41}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="4000" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4000" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4000" width="4000" predecode="0" preload="0"/>
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="191.387" fovmode="0">
+      <start tilt="-37.0289" pan="111.411" fov="104.652" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node14" author="" longitude="60.64353079" source="" comment="" info="" tags="Собранные" latitude="56.81755911" copyright="" datetime="2021.06.20" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" heading="191.387"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="253.196" target="" tilt="4.81" skinid="ht_node" pan="-67.26" id="Point01" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="253.196" target="" tilt="-14.53" skinid="ht_node" pan="-68.49" id="Point03" title="Станция &quot;Екатерибург-Детский&quot; " description="" url="{node17}"/>
+      <hotspot distance="31.2158" target="" tilt="-47.27" skinid="ht_node" pan="-77.36" id="Point04" title="Музей УЖД" description="" url="{node18}"/>
+      <hotspot distance="49.5065" target="" tilt="-30.2" skinid="ht_node" pan="-117.09" id="Point05" title="Станция Центральная" description="" url="{node32}"/>
+      <hotspot distance="18.6605" target="" tilt="-48.89" skinid="ht_node" pan="-217.11" id="Point07" title="Выставочные пути Музея УЖД" description="" url="{node24}"/>
+      <hotspot distance="28.2887" target="" tilt="-37.26" skinid="ht_node" pan="-249.23" id="Point06" title="Выставочные пути Музея УЖД" description="" url="{node20}"/>
+      <hotspot distance="40.9825" target="" tilt="-28.52" skinid="ht_node" pan="-246.38" id="Point08" title="Выставочные пути Музея УЖД" description="" url="{node51}"/>
+      <hotspot distance="76.5211" target="" tilt="-18.01" skinid="ht_node" pan="-256.34" id="Point09" title="Выставочные пути Музея УЖД" description="" url="{node22}"/>
+      <hotspot distance="34.2878" target="" tilt="-34.43" skinid="ht_node" pan="-195.28" id="Point10" title="Лаборатория &quot;Управление паровозом&quot;" description="" url="{node44}"/>
+      <hotspot distance="39.4907" target="" tilt="-29.49" skinid="ht_node" pan="-183.95" id="Point11" title="Паровозное депо" description="" url="{node45}"/>
+      <hotspot distance="38.9751" target="" tilt="-28.72" skinid="ht_node" pan="-192.79" id="Point12" title="Паровозное депо" description="" url="{node46}"/>
+      <hotspot distance="41.3431" target="" tilt="-27.77" skinid="ht_node" pan="-201.35" id="Point13" title="Паровозное депо" description="" url="{node48}"/>
+      <hotspot distance="44.5611" target="" tilt="-25.44" skinid="ht_node" pan="-210.65" id="Point14" title="Паровозное депо" description="" url="{node47}"/>
+      <hotspot distance="36.5269" target="" tilt="-32.54" skinid="ht_node" pan="-206.71" id="Point15" title="Лекторий &quot;Локомотивное хозяйство&quot;" description="" url="{node49}"/>
+      <hotspot distance="39.4779" target="" tilt="-29.24" skinid="ht_node" pan="-216.93" id="Point16" title="Лаборатория &quot;Силовые установки железнодорожного транспорта &quot;" description="&quot;" url="{node50}"/>
+      <hotspot distance="253.196" target="" tilt="-4.46" skinid="ht_node" pan="-290.49" id="Point18" title=" ДТ Кванториум, 1 этаж" description="" url="{node52}"/>
+      <hotspot distance="126.105" target="" tilt="-12.48" skinid="ht_node" pan="-267.93" id="Point19" title="Выставочные пути Музея УЖД" description="" url="{node30}"/>
+      <hotspot distance="51.8333" target="" tilt="-22.37" skinid="ht_node" pan="-272.45" id="Point20" title="Выставочные пути Музея УЖД" description="" url="{node28}"/>
+      <hotspot distance="41.2328" target="" tilt="-33.53" skinid="ht_node" pan="-272.48" id="Point21" title="Выставочные пути Музея УЖД" description="" url="{node27}"/>
+      <hotspot distance="17.0593" target="" tilt="-44.85" skinid="ht_node" pan="-273.51" id="Point22" title="Выставочные пути Музея УЖД" description="" url="{node26}"/>
+      <hotspot distance="6.7936" target="" tilt="-59.45" skinid="ht_node" pan="-236.09" id="Point23" title="Музей УЖД" description="" url="{node19}"/>
+      <hotspot distance="6.53754" target="" tilt="-64.4" skinid="ht_node" pan="-276.19" id="Point24" title="Выставочные пути Музея УЖД" description="" url="{node25}"/>
+      <hotspot distance="151.353" target="" tilt="-7.75" skinid="ht_node" pan="-269.12" id="Point25" title="Выставочные пути Музея УЖД" description="" url="{node31}"/>
+      <hotspot distance="177.529" target="" tilt="1.41" skinid="ht_node" pan="-109.59" id="Point26" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+      <hotspot distance="42.8282" target="" tilt="-36.18" skinid="ht_node" pan="-96.26" id="Point02" title="Музей УЖД 1 этаж" description="" url="{node38}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input height="4154" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4154" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4154" width="4154" predecode="0" preload="0"/>
+      <level height="2077" width="2077" predecode="0" preload="0"/>
+      <level height="1038" width="1038" predecode="0" preload="0"/>
+      <level height="519" width="519" predecode="0" preload="0"/>
+      <level height="259" width="259" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="33.6532" fovmode="0">
+      <start tilt="1.86545" pan="83.2171" fov="96.4297" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node18" author="" longitude="60.64302921" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81750038" copyright="" datetime="2021.10.23" title="Музей УЖД" description="Музей УЖД" heading="33.6532"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="15.0859" target="" tilt="-0.05" skinid="ht_node" pan="-274.86" id="Point01" title="Музей УЖД 1 этаж" description="" url="{node38}"/>
+      <hotspot distance="222.166" target="" tilt="16.15" skinid="ht_node" pan="-211.5" id="Point02" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="31.2158" target="" tilt="20.87" skinid="ht_node" pan="-251.2" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="30.1983" target="" tilt="1.62" skinid="ht_node" pan="-35.77" id="Point04" title="Выставочные пути Музея УЖД" description="" url="{node25}"/>
+      <hotspot distance="51.4544" target="" tilt="5.73" skinid="ht_node" pan="-351.67" id="Point05" title="Лаборатория &quot;Управление паровозом&quot;" description="" url="{node44}"/>
+      <hotspot distance="31.2158" target="" tilt="40.69" skinid="ht_node" pan="-36.95" id="Point06" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input height="4169" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4169" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4169" width="4169" predecode="0" preload="0"/>
+      <level height="2084" width="2084" predecode="0" preload="0"/>
+      <level height="1042" width="1042" predecode="0" preload="0"/>
+      <level height="521" width="521" predecode="0" preload="0"/>
+      <level height="260" width="260" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-14.8659" fovmode="0">
+      <start tilt="0.304126" pan="91.2031" fov="98.5787" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node19" author="" longitude="60.64362198" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81752387" copyright="" datetime="2021.10.23" title="Музей УЖД" description="Музей УЖД" heading="-14.8659"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="6.7936" target="" tilt="84.99" skinid="ht_node" pan="-292.13" id="Point13" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="183.706" target="" tilt="19.61" skinid="ht_node" pan="-308.22" id="Point01" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+      <hotspot distance="20.5957" target="" tilt="-7.6" skinid="ht_node" pan="-29.55" id="Point02" title="Выставочные пути Музея УЖД" description="" url="{node24}"/>
+      <hotspot distance="6.43032" target="" tilt="-10.95" skinid="ht_node" pan="-205.04" id="Point03" title="Выставочные пути Музея УЖД" description="" url="{node25}"/>
+      <hotspot distance="10.3343" target="" tilt="-2.19" skinid="ht_node" pan="-133.23" id="Point04" title="Выставочные пути Музея УЖД" description="" url="{node26}"/>
+      <hotspot distance="38.4888" target="" tilt="-1.66" skinid="ht_node" pan="-4.25" id="Point05" title="Лаборатория &quot;Управление паровозом&quot;" description="" url="{node44}"/>
+      <hotspot distance="44.0553" target="" tilt="7.61" skinid="ht_node" pan="-2.1" id="Point06" title="Паровозное депо" description="" url="{node45}"/>
+      <hotspot distance="42.2333" target="" tilt="7.38" skinid="ht_node" pan="-15.99" id="Point07" title="Паровозное депо" description="" url="{node46}"/>
+      <hotspot distance="43.4144" target="" tilt="7.21" skinid="ht_node" pan="-27.76" id="Point08" title="Паровозное депо" description="" url="{node48}"/>
+      <hotspot distance="45.7114" target="" tilt="7.01" skinid="ht_node" pan="-39.34" id="Point09" title="Паровозное депо" description="" url="{node47}"/>
+      <hotspot distance="39.7138" target="" tilt="-0.56" skinid="ht_node" pan="-23.99" id="Point10" title="Лекторий &quot;Локомотивное хозяйство&quot;" description="" url="{node49}"/>
+      <hotspot distance="40.2754" target="" tilt="-0.35" skinid="ht_node" pan="-38.26" id="Point11" title="Лаборатория &quot;Силовые установки железнодорожного транспорта &quot;" description="" url="{node50}"/>
+      <hotspot distance="258.328" target="" tilt="24.33" skinid="ht_node" pan="-256.02" id="Point12" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="24.8042" target="" tilt="-1.11" skinid="ht_node" pan="-96.83" id="Point14" title="Выставочные пути Музея УЖД" description="" url="{node20}"/>
+      <hotspot distance="56.0661" target="" tilt="2.32" skinid="ht_node" pan="-319.21" id="Point15" title="Станция Центральная" description="" url="{node32}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input height="4459" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4459" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4459" width="4459" predecode="0" preload="0"/>
+      <level height="2229" width="2229" predecode="0" preload="0"/>
+      <level height="1114" width="1114" predecode="0" preload="0"/>
+      <level height="557" width="557" predecode="0" preload="0"/>
+      <level height="278" width="278" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="259.073" fovmode="0">
+      <start tilt="1.06209" pan="152.231" fov="102.551" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node20" author="" longitude="60.64397336" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81763690" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="259.073"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="24.8042" target="" tilt="-4.19" skinid="ht_node" pan="-17.91" id="Point01" title="Музей УЖД" description="" url="{node19}"/>
+      <hotspot distance="28.2887" target="" tilt="37.14" skinid="ht_node" pan="-351.07" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="41.5643" target="" tilt="-1.5" skinid="ht_node" pan="-202.36" id="Point03" title="Выставочные пути Музея УЖД" description="" url="{node21}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input height="4529" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4529" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4529" width="4529" predecode="0" preload="0"/>
+      <level height="2264" width="2264" predecode="0" preload="0"/>
+      <level height="1132" width="1132" predecode="0" preload="0"/>
+      <level height="566" width="566" predecode="0" preload="0"/>
+      <level height="283" width="283" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-417.007" fovmode="0">
+      <start tilt="-1.65321" pan="-73.3669" fov="85.9447" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node21" author="" longitude="60.64465463" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81761049" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="-417.007"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="41.5643" target="" tilt="-2.42" skinid="ht_node" pan="-296.55" id="Point01" title="Выставочные пути Музея УЖД" description="" url="{node20}"/>
+      <hotspot distance="68.6325" target="" tilt="14.66" skinid="ht_node" pan="-286.77" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="145.966" target="" tilt="2.17" skinid="ht_node" pan="-155.9" id="Point03" title=" ДТ Кванториум 1 этаж" description="" url="{node41}"/>
+      <hotspot distance="58.5609" target="" tilt="-1.61" skinid="ht_node" pan="-123.96" id="Point04" title="Выставочные пути Музея УЖД" description="" url="{node30}"/>
+      <hotspot distance="244.482" target="" tilt="15.04" skinid="ht_node" pan="-309.03" id="Point05" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input height="4127" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4127" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4127" width="4127" predecode="0" preload="0"/>
+      <level height="2063" width="2063" predecode="0" preload="0"/>
+      <level height="1031" width="1031" predecode="0" preload="0"/>
+      <level height="515" width="515" predecode="0" preload="0"/>
+      <level height="257" width="257" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="76.7506" fovmode="0">
+      <start tilt="-2.06171" pan="-27.4833" fov="95.347" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node24" author="" longitude="60.64367697" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81770663" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="76.7506"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="55.6629" target="" tilt="3.19" skinid="ht_node" pan="-195.15" id="Point01" title="Станция Центральная" description="" url="{node32}"/>
+      <hotspot distance="18.6605" target="" tilt="71.14" skinid="ht_node" pan="-87.97" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="29.3408" target="" tilt="-1.08" skinid="ht_node" pan="-15.16" id="Point03" title="Выставочные пути Музея УЖД" description="" url="{node51}"/>
+      <hotspot distance="19.6163" target="" tilt="-0.13" skinid="ht_node" pan="-257.65" id="Point04" title="Лаборатория &quot;Управление паровозом&quot;" description="" url="{node44}"/>
+      <hotspot distance="21.928" target="" tilt="8.98" skinid="ht_node" pan="-245.97" id="Point05" title="Паровозное депо" description="" url="{node46}"/>
+      <hotspot distance="22.9045" target="" tilt="11.89" skinid="ht_node" pan="-286.7" id="Point06" title="Паровозное депо" description="" url="{node48}"/>
+      <hotspot distance="25.9086" target="" tilt="8.84" skinid="ht_node" pan="-308.91" id="Point07" title="Паровозное депо" description="" url="{node47}"/>
+      <hotspot distance="20.9457" target="" tilt="-0.68" skinid="ht_node" pan="-317.65" id="Point08" title="Лаборатория &quot;Силовые установки железнодорожного транспорта &quot;" description="" url="{node50}"/>
+      <hotspot distance="19.3932" target="" tilt="-0.72" skinid="ht_node" pan="-287.84" id="Point09" title="Лекторий &quot;Локомотивное хозяйство&quot;" description="" url="{node49}"/>
+      <hotspot distance="264.262" target="" tilt="21.63" skinid="ht_node" pan="-158.54" id="Point10" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="20.5957" target="" tilt="-15.76" skinid="ht_node" pan="-121.72" id="Point11" title="Музей УЖД" description="" url="{node19}"/>
+      <hotspot distance="24.718" target="" tilt="-2.61" skinid="ht_node" pan="-112.04" id="Point12" title="Выставочные пути Музея УЖД" description="" url="{node25}"/>
+      <hotspot distance="19.6335" target="" tilt="0.01" skinid="ht_node" pan="-61.62" id="Point13" title="Выставочные пути Музея УЖД" description="" url="{node20}"/>
+      <hotspot distance="184.243" target="" tilt="33.23" skinid="ht_node" pan="-210.47" id="Point14" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+      <hotspot distance="21.928" target="" tilt="12.15" skinid="ht_node" pan="-264.52" id="Point15" title="Паровозное депо" description="" url="{node46}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node51">
+    <input height="4125" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4125" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4125" width="4125" predecode="0" preload="0"/>
+      <level height="2062" width="2062" predecode="0" preload="0"/>
+      <level height="1031" width="1031" predecode="0" preload="0"/>
+      <level height="515" width="515" predecode="0" preload="0"/>
+      <level height="257" width="257" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="61.5575" fovmode="0">
+      <start tilt="-4.67561" pan="-19.3523" fov="83.9022" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node51" author="" longitude="60.64415842" source="" comment="" info="" tags="7" latitude="56.81769269" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="61.5575"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="29.3408" target="" tilt="0.41" skinid="ht_node" pan="-206.32" id="Point01" title="Выставочные пути Музея УЖД" description="" url="{node24}"/>
+      <hotspot distance="37.2642" target="" tilt="-2.48" skinid="ht_node" pan="-21.58" id="Point02" title="Выставочные пути Музея УЖД" description="" url="{node22}"/>
+      <hotspot distance="40.9825" target="" tilt="22.17" skinid="ht_node" pan="-181.54" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="213.574" target="" tilt="18.13" skinid="ht_node" pan="-218.03" id="Point04" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input height="4284" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4284" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4284" width="4284" predecode="0" preload="0"/>
+      <level height="2142" width="2142" predecode="0" preload="0"/>
+      <level height="1071" width="1071" predecode="0" preload="0"/>
+      <level height="535" width="535" predecode="0" preload="0"/>
+      <level height="267" width="267" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="238.854" fovmode="0">
+      <start tilt="-1.2028" pan="-171.461" fov="98.5787" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node22" author="" longitude="60.64476996" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81767580" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="238.854"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="37.2642" target="" tilt="-0.91" skinid="ht_node" pan="-31.4" id="Point01" title="Выставочные пути Музея УЖД" description="" url="{node51}"/>
+      <hotspot distance="76.5211" target="" tilt="13.25" skinid="ht_node" pan="-17.93" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="31.2714" target="" tilt="-0.6" skinid="ht_node" pan="-227.31" id="Point03" title="Выставочные пути Музея УЖД" description="" url="{node29}"/>
+      <hotspot distance="250.826" target="" tilt="17.69" skinid="ht_node" pan="-42.98" id="Point04" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input height="4309" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4309" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4309" width="4309" predecode="0" preload="0"/>
+      <level height="2154" width="2154" predecode="0" preload="0"/>
+      <level height="1077" width="1077" predecode="0" preload="0"/>
+      <level height="538" width="538" predecode="0" preload="0"/>
+      <level height="269" width="269" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="2.11485" pan="-44.0434" fov="44.7009" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node25" author="" longitude="60.64352542" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81750039" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="15.3579" target="" tilt="0.82" skinid="ht_node" pan="-57.82" id="Point01" title="Выставочные пути Музея УЖД" description="" url="{node26}"/>
+      <hotspot distance="24.718" target="" tilt="-2.55" skinid="ht_node" pan="-349.79" id="Point02" title="Выставочные пути Музея УЖД" description="" url="{node24}"/>
+      <hotspot distance="6.43032" target="" tilt="-6.26" skinid="ht_node" pan="-357.33" id="Point03" title="Музей УЖД" description="" url="{node19}"/>
+      <hotspot distance="6.53754" target="" tilt="73.12" skinid="ht_node" pan="-261.14" id="Point04" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="178.478" target="" tilt="14.64" skinid="ht_node" pan="-259.98" id="Point05" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+      <hotspot distance="51.7219" target="" tilt="1.42" skinid="ht_node" pan="-266.86" id="Point06" title="Станция Центральная" description="" url="{node32}"/>
+      <hotspot distance="252.247" target="" tilt="14.39" skinid="ht_node" pan="-219.09" id="Point07" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="43.346" target="" tilt="-2.46" skinid="ht_node" pan="-249.45" id="Point08" title="Музей УЖД 1 этаж" description="" url="{node38}"/>
+      <hotspot distance="30.1983" target="" tilt="-7.07" skinid="ht_node" pan="-233.92" id="Point09" title="Музей УЖД" description="" url="{node18}"/>
+      <hotspot distance="202.49" target="" tilt="4.85" skinid="ht_node" pan="-81.2" id="Point10" title=" ДТ Кванториум 1 этаж" description="" url="{node41}"/>
+      <hotspot distance="45.9943" target="" tilt="5.5" skinid="ht_node" pan="-321.12" id="Point11" title="Паровозное депо" description="" url="{node45}"/>
+      <hotspot distance="45.4581" target="" tilt="6.43" skinid="ht_node" pan="-330.79" id="Point12" title="Паровозное депо" description="" url="{node46}"/>
+      <hotspot distance="47.5707" target="" tilt="6.68" skinid="ht_node" pan="-340.2" id="Point13" title="Паровозное депо" description="" url="{node48}"/>
+      <hotspot distance="50.4783" target="" tilt="7.23" skinid="ht_node" pan="-349.97" id="Point14" title="Паровозное депо" description="" url="{node47}"/>
+      <hotspot distance="45.2329" target="" tilt="2.78" skinid="ht_node" pan="-351.05" id="Point15" title="Лаборатория &quot;Силовые установки железнодорожного транспорта &quot;" description="" url="{node50}"/>
+      <hotspot distance="40.8234" target="" tilt="1.18" skinid="ht_node" pan="-325.62" id="Point16" title="Лаборатория &quot;Управление паровозом&quot;" description="" url="{node44}"/>
+      <hotspot distance="42.9962" target="" tilt="2.06" skinid="ht_node" pan="-337.67" id="Point17" title="Лекторий &quot;Локомотивное хозяйство&quot;" description="" url="{node49}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input height="4154" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4154" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4154" width="4154" predecode="0" preload="0"/>
+      <level height="2077" width="2077" predecode="0" preload="0"/>
+      <level height="1038" width="1038" predecode="0" preload="0"/>
+      <level height="519" width="519" predecode="0" preload="0"/>
+      <level height="259" width="259" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="32.8462" fovmode="0">
+      <start tilt="4.56931" pan="-14.513" fov="87.6386" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node26" author="" longitude="60.64377620" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81748497" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="32.8462"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="15.3579" target="" tilt="-9.3" skinid="ht_node" pan="-235.78" id="Point01" title="Выставочные пути Музея УЖД" description="" url="{node25}"/>
+      <hotspot distance="25.5496" target="" tilt="-2.51" skinid="ht_node" pan="-53.1" id="Point02" title="Выставочные пути Музея УЖД" description="" url="{node27}"/>
+      <hotspot distance="10.3343" target="" tilt="-8.28" skinid="ht_node" pan="-279.72" id="Point03" title="Музей УЖД" description="" url="{node19}"/>
+      <hotspot distance="193.763" target="" tilt="15.91" skinid="ht_node" pan="-256.66" id="Point04" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+      <hotspot distance="267.331" target="" tilt="14.98" skinid="ht_node" pan="-217.35" id="Point05" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input height="4347" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4347" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4347" width="4347" predecode="0" preload="0"/>
+      <level height="2173" width="2173" predecode="0" preload="0"/>
+      <level height="1086" width="1086" predecode="0" preload="0"/>
+      <level height="543" width="543" predecode="0" preload="0"/>
+      <level height="271" width="271" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-5.07141" pan="57.8811" fov="94.8019" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node27" author="" longitude="60.64419597" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81748864" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="25.5496" target="" tilt="-9.54" skinid="ht_node" pan="-180.21" id="Point01" title="Выставочные пути, Музей УЖД" description="" url="{node26}"/>
+      <hotspot distance="10.6999" target="" tilt="-4.64" skinid="ht_node" pan="-359.53" id="Point02" title="Выставочные пути Музея УЖД" description="" url="{node28}"/>
+      <hotspot distance="41.2328" target="" tilt="15.84" skinid="ht_node" pan="-179.45" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input height="4480" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4480" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4480" width="4480" predecode="0" preload="0"/>
+      <level height="2240" width="2240" predecode="0" preload="0"/>
+      <level height="1120" width="1120" predecode="0" preload="0"/>
+      <level height="560" width="560" predecode="0" preload="0"/>
+      <level height="280" width="280" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="137.986" fovmode="0">
+      <start tilt="-0.702718" pan="97.2871" fov="81.2099" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node28" author="" longitude="60.64437166" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81748497" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="137.986"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="10.6999" target="" tilt="-6.59" skinid="ht_node" pan="-132.9" id="Point01" title="Выставочные пути Музея УЖД" description="" url="{node27}"/>
+      <hotspot distance="45.8285" target="" tilt="4.9" skinid="ht_node" pan="-127.93" id="Point02" title="Музей УЖД" description="" url="{node19}"/>
+      <hotspot distance="154.176" target="" tilt="1.82" skinid="ht_node" pan="-344.23" id="Point03" title=" ДТ Кванториум 1 этаж" description="" url="{node41}"/>
+      <hotspot distance="74.9246" target="" tilt="-1.54" skinid="ht_node" pan="-303.02" id="Point04" title="Выставочные пути Музея УЖД" description="" url="{node30}"/>
+      <hotspot distance="100.089" target="" tilt="0.25" skinid="ht_node" pan="-308.16" id="Point05" title="Выставочные пути Музея УЖД" description="" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input height="4125" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4125" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4125" width="4125" predecode="0" preload="0"/>
+      <level height="2062" width="2062" predecode="0" preload="0"/>
+      <level height="1031" width="1031" predecode="0" preload="0"/>
+      <level height="515" width="515" predecode="0" preload="0"/>
+      <level height="257" width="257" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="74.2622" fovmode="0">
+      <start tilt="0.939993" pan="14.5323" fov="68.0298" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node29" author="" longitude="60.64518973" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81751360" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="74.2622"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="31.2714" target="" tilt="-1.72" skinid="ht_node" pan="-229.52" id="Point01" title="Выставочные пути Музея УЖД" description="" url="{node22}"/>
+      <hotspot distance="118.02" target="" tilt="4.28" skinid="ht_node" pan="-49.36" id="Point04" title=" ДТ Кванториум 1 этаж" description="" url="{node42}"/>
+      <hotspot distance="25.0585" target="" tilt="-6.11" skinid="ht_node" pan="-357.84" id="Point05" title="Выставочные пути Музея УЖД" description="" url="{node30}"/>
+      <hotspot distance="49.8876" target="" tilt="-1.88" skinid="ht_node" pan="-192" id="Point06" title="Выставочные пути Музея УЖД" description="" url="{node28}"/>
+      <hotspot distance="101.086" target="" tilt="7.14" skinid="ht_node" pan="-194.41" id="Point07" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="50.2845" target="" tilt="-1.45" skinid="ht_node" pan="-5.15" id="Point02" title="Выставочные пути Музея УЖД" description="" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input height="4287" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4287" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4287" width="4287" predecode="0" preload="0"/>
+      <level height="2143" width="2143" predecode="0" preload="0"/>
+      <level height="1071" width="1071" predecode="0" preload="0"/>
+      <level height="535" width="535" predecode="0" preload="0"/>
+      <level height="267" width="267" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-12.9561" fovmode="0">
+      <start tilt="2.12148" pan="-90.48" fov="74.3283" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node30" author="" longitude="60.64560145" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81751653" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="-12.9561"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="25.0585" target="" tilt="-2.16" skinid="ht_node" pan="-293.77" id="Point01" title="Выставочные пути Музея УЖД" description="" url="{node29}"/>
+      <hotspot distance="94.8312" target="" tilt="3.01" skinid="ht_node" pan="-173.27" id="Point02" title=" ДТ Кванториум 1 этаж" description=" ДТ Кванториум, 1 этаж" url="{node41}"/>
+      <hotspot distance="99.392" target="" tilt="2.34" skinid="ht_node" pan="-156.66" id="Point03" title=" ДТ Кванториум 1 этаж" description="" url="{node42}"/>
+      <hotspot distance="126.105" target="" tilt="5.99" skinid="ht_node" pan="-291.58" id="Point04" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="53.6121" target="" tilt="2.04" skinid="ht_node" pan="-308.37" id="Point05" title="Выставочные пути Музея УЖД" description="" url="{node22}"/>
+      <hotspot distance="25.2497" target="" tilt="-3.25" skinid="ht_node" pan="-110.25" id="Point06" title="Выставочные пути Музея УЖД" description="" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input height="4131" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4131" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4131" width="4131" predecode="0" preload="0"/>
+      <level height="2065" width="2065" predecode="0" preload="0"/>
+      <level height="1032" width="1032" predecode="0" preload="0"/>
+      <level height="516" width="516" predecode="0" preload="0"/>
+      <level height="258" width="258" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="26.2393" fovmode="0">
+      <start tilt="5.04687" pan="-17.3377" fov="56.409" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node31" author="" longitude="60.64601586" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81750553" copyright="" datetime="2021.10.23" title="Выставочные пути Музея УЖД" description="Выставочные пути Музея УЖД" heading="26.2393"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="82.7692" target="" tilt="4.08" skinid="ht_node" pan="-122.8" id="Point01" title=" ДТ Кванториум 1 этаж" description="" url="{node42}"/>
+      <hotspot distance="25.2497" target="" tilt="-4.46" skinid="ht_node" pan="-249.72" id="Point02" title="Выставочные пути Музея УЖД" description="" url="{node30}"/>
+      <hotspot distance="151.353" target="" tilt="6.09" skinid="ht_node" pan="-244.88" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input height="4130" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4130" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4130" width="4130" predecode="0" preload="0"/>
+      <level height="2065" width="2065" predecode="0" preload="0"/>
+      <level height="1032" width="1032" predecode="0" preload="0"/>
+      <level height="516" width="516" predecode="0" preload="0"/>
+      <level height="258" width="258" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="160.594" fovmode="0">
+      <start tilt="1.07892" pan="-2.86083" fov="110.933" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node32" author="" longitude="60.64276233" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81770517" copyright="" datetime="2021.10.23" title="Станция Центральная" description="Станция Центральная" heading="160.594"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="4.47167" target="" tilt="-2.2" skinid="ht_node" pan="-0.69" id="Point01" title="Музей УЖД 2 этаж" description="" url="{node33}"/>
+      <hotspot distance="50.8859" target="" tilt="2.88" skinid="ht_node" pan="-258.89" id="Point02" title="Лаборатория &quot;Управление паровозом&quot;" description="" url="{node44}"/>
+      <hotspot distance="49.5065" target="" tilt="17.03" skinid="ht_node" pan="-291.93" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="128.862" target="" tilt="17.59" skinid="ht_node" pan="-126.59" id="Point04" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input height="4123" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4123" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4123" width="4123" predecode="0" preload="0"/>
+      <level height="2061" width="2061" predecode="0" preload="0"/>
+      <level height="1030" width="1030" predecode="0" preload="0"/>
+      <level height="515" width="515" predecode="0" preload="0"/>
+      <level height="257" width="257" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90.3374" fovmode="0">
+      <start tilt="-1.71528" pan="-149.6" fov="78.124" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node43" author="" longitude="60.64270199" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81765452" copyright="" datetime="2021.10.23" title="Музей УЖД 2 этаж" description="Музей УЖД 2 этаж" heading="90.3374"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="5.50397" target="" tilt="-4.19" skinid="ht_node" pan="-336.29" id="Point01" title="Музей УЖД 2 этаж" description="" url="{node33}"/>
+      <hotspot distance="51.5425" target="" tilt="28.79" skinid="ht_node" pan="-0.29" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="126.019" target="" tilt="46.36" skinid="ht_node" pan="-245.57" id="Point03" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+      <hotspot distance="204.829" target="" tilt="27.88" skinid="ht_node" pan="-129.28" id="Point04" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input height="4137" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4137" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4137" width="4137" predecode="0" preload="0"/>
+      <level height="2068" width="2068" predecode="0" preload="0"/>
+      <level height="1034" width="1034" predecode="0" preload="0"/>
+      <level height="517" width="517" predecode="0" preload="0"/>
+      <level height="258" width="258" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="104.864" fovmode="0">
+      <start tilt="-1.05084" pan="30.3781" fov="71.6147" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node34" author="" longitude="60.64282402" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81760314" copyright="" datetime="2021.10.23" title="Музей УЖД 2 этаж" description="Музей УЖД 2 этаж" heading="104.864"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="2.62235" target="" tilt="-19.12" skinid="ht_node" pan="-163.42" id="Point01" title="Музей УЖД 1 этаж" description="" url="{node38}"/>
+      <hotspot distance="5.84276" target="" tilt="-7.67" skinid="ht_node" pan="-117.58" id="Point02" title="Музей УЖД 2 этаж" description="" url="{node37}"/>
+      <hotspot distance="6.16551" target="-18.4/-5.9/107.7" tilt="0" skinid="ht_node" pan="21.7002" id="Point03" title="Музей УЖД 2 этаж" description="" url="{node35}"/>
+      <hotspot distance="43.2901" target="" tilt="33.05" skinid="ht_node" pan="-359.31" id="Point04" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="211.182" target="" tilt="37.45" skinid="ht_node" pan="-102.44" id="Point05" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="11.9503" target="" tilt="-1.4" skinid="ht_node" pan="-235.36" id="Point06" title="Станция Центральная" description="" url="{node32}"/>
+      <hotspot distance="7.48903" target="" tilt="-18.4" skinid="ht_node" pan="-236.26" id="Point07" title="Музей УЖД 2 этаж" description="" url="{node33}"/>
+      <hotspot distance="9.36978" target="" tilt="-3.86" skinid="ht_node" pan="-208.15" id="Point08" title="Музей УЖД 2 этаж" description="" url="{node43}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input height="4550" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4550" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4550" width="4550" predecode="0" preload="0"/>
+      <level height="2275" width="2275" predecode="0" preload="0"/>
+      <level height="1137" width="1137" predecode="0" preload="0"/>
+      <level height="568" width="568" predecode="0" preload="0"/>
+      <level height="284" width="284" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="69.5707" fovmode="0">
+      <start tilt="-5.93525" pan="-18.377" fov="107.654" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node35" author="" longitude="60.64292461" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81760974" copyright="" datetime="2021.10.23" title="Музей УЖД 2 этаж" description="Музей УЖД 2 этаж" heading="69.5707"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="10.4661" target="" tilt="-5.27" skinid="ht_node" pan="-246.59" id="Point01" title="Музей УЖД 2 этаж" description="" url="{node33}"/>
+      <hotspot distance="37.3178" target="" tilt="19.75" skinid="ht_node" pan="-76.58" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="217.344" target="" tilt="21.26" skinid="ht_node" pan="-148.75" id="Point03" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input height="4111" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4111" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4111" width="4111" predecode="0" preload="0"/>
+      <level height="2055" width="2055" predecode="0" preload="0"/>
+      <level height="1027" width="1027" predecode="0" preload="0"/>
+      <level height="513" width="513" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="284.248" fovmode="0">
+      <start tilt="0.892121" pan="-14.0684" fov="88.3578" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node37" author="" longitude="60.64273685" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81758112" copyright="" datetime="2021.10.23" title="Музей УЖД 2 этаж" description="Музей УЖД 2 этаж" heading="284.248"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="5.84276" target="" tilt="-7.94" skinid="ht_node" pan="-163.52" id="Point01" title="Музей УЖД 2 этаж" description="" url="{node34}"/>
+      <hotspot distance="48.3793" target="" tilt="27.91" skinid="ht_node" pan="-200.24" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="205.571" target="" tilt="28.05" skinid="ht_node" pan="-326.05" id="Point03" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input height="4120" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4120" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4120" width="4120" predecode="0" preload="0"/>
+      <level height="2060" width="2060" predecode="0" preload="0"/>
+      <level height="1030" width="1030" predecode="0" preload="0"/>
+      <level height="515" width="515" predecode="0" preload="0"/>
+      <level height="257" width="257" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="88.2695" fovmode="0">
+      <start tilt="-3.26141" pan="-79.8295" fov="74.3283" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node33" author="" longitude="60.64278915" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81766773" copyright="" datetime="2021.10.23" title="Музей УЖД 2 этаж" description="Музей УЖД 2 этажnnnnnnn" heading="88.2695"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="4.47167" target="" tilt="-8.34" skinid="ht_node" pan="-261.69" id="Point01" title="Станция Центральная" description="" url="{node32}"/>
+      <hotspot distance="7.48903" target="" tilt="-3.47" skinid="ht_node" pan="-85.17" id="Point02" title="Музей УЖД 2 этаж" description="" url="{node34}"/>
+      <hotspot distance="5.50397" target="" tilt="-8.71" skinid="ht_node" pan="-181.87" id="Point03" title="Музей УЖД 2 этаж" description="" url="{node43}"/>
+      <hotspot distance="10.4661" target="" tilt="-6.44" skinid="ht_node" pan="-37.88" id="Point04" title="Музей УЖД 2 этаж" description="" url="{node35}"/>
+      <hotspot distance="8.62587" target="" tilt="-21.08" skinid="ht_node" pan="-147.64" id="Point05" title="Музей УЖД 1 этаж" description="" url="{node40}"/>
+      <hotspot distance="46.7226" target="" tilt="18.52" skinid="ht_node" pan="-63.48" id="Point06" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="210.315" target="" tilt="18.47" skinid="ht_node" pan="-106.8" id="Point07" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="131.03" target="" tilt="38.27" skinid="ht_node" pan="-199.28" id="Point08" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+      <hotspot distance="10.1429" target="" tilt="-4.91" skinid="ht_node" pan="-107.44" id="Point09" title="Музей УЖД 2 этаж" description="" url="{node37}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input height="4157" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4157" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4157" width="4157" predecode="0" preload="0"/>
+      <level height="2078" width="2078" predecode="0" preload="0"/>
+      <level height="1039" width="1039" predecode="0" preload="0"/>
+      <level height="519" width="519" predecode="0" preload="0"/>
+      <level height="259" width="259" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="3.9626" pan="-6.94696" fov="82.0819" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node38" author="" longitude="60.64282805" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81757966" copyright="" datetime="2021.10.23" title="Музей УЖД 1 этаж" description="Музей УЖД 1 этаж" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="15.0859" target="" tilt="-9.68" skinid="ht_node" pan="-156.78" id="Point01" title="Музей УЖД" description="" url="{node18}"/>
+      <hotspot distance="3.69421" target="" tilt="-5.94" skinid="ht_node" pan="-50.04" id="Point02" title="Музей УЖД 1 этаж" description="" url="{node40}"/>
+      <hotspot distance="10.1483" target="" tilt="-4.59" skinid="ht_node" pan="-27.66" id="Point03" title="Музей УЖД 1 этаж" description="" url="{node39}"/>
+      <hotspot distance="10.075" target="" tilt="10.97" skinid="ht_node" pan="-284.36" id="Point04" title="Музей УЖД 2 этаж" description="" url="{node33}"/>
+      <hotspot distance="211.041" target="" tilt="22.48" skinid="ht_node" pan="-230.03" id="Point05" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="42.8282" target="" tilt="21.2" skinid="ht_node" pan="-104.82" id="Point06" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input height="4229" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4229" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4229" width="4229" predecode="0" preload="0"/>
+      <level height="2114" width="2114" predecode="0" preload="0"/>
+      <level height="1057" width="1057" predecode="0" preload="0"/>
+      <level height="528" width="528" predecode="0" preload="0"/>
+      <level height="264" width="264" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-74.9964" fovmode="0">
+      <start tilt="-0.104311" pan="-159.974" fov="113.312" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node40" author="" longitude="60.64286962" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81760387" copyright="" datetime="2021.10.23" title="Музей УЖД 1 этаж" description="Музей УЖД 1 этаж" heading="-74.9964"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="7.28792" target="" tilt="-6.52" skinid="ht_node" pan="-89.88" id="Point01" title="Музей УЖД 1 этаж" description="" url="{node39}"/>
+      <hotspot distance="3.69421" target="" tilt="-21" skinid="ht_node" pan="-300.01" id="Point02" title="Музей УЖД 1 этаж" description="" url="{node38}"/>
+      <hotspot distance="8.62587" target="" tilt="4.31" skinid="ht_node" pan="-347.48" id="Point03" title="Музей УЖД 2 этаж" description="" url="{node33}"/>
+      <hotspot distance="40.5439" target="" tilt="20.07" skinid="ht_node" pan="-186.04" id="Point04" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="213.937" target="" tilt="9.25" skinid="ht_node" pan="-315.42" id="Point05" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="15.0583" target="" tilt="-5.05" skinid="ht_node" pan="-294.8" id="Point06" title="Музей УЖД" description="" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input height="4202" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4202" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4202" width="4202" predecode="0" preload="0"/>
+      <level height="2101" width="2101" predecode="0" preload="0"/>
+      <level height="1050" width="1050" predecode="0" preload="0"/>
+      <level height="525" width="525" predecode="0" preload="0"/>
+      <level height="262" width="262" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-97.4606" fovmode="0">
+      <start tilt="-0.0261529" pan="159.255" fov="104.652" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node39" author="" longitude="60.64286023" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81766921" copyright="" datetime="2021.10.23" title="Музей УЖД 1 этаж" description="Музей УЖД 1 этаж" heading="-97.4606"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="7.28792" target="" tilt="-7.19" skinid="ht_node" pan="-309.33" id="Point01" title="Музей УЖД 1 этаж" description="" url="{node40}"/>
+      <hotspot distance="7.28792" target="" tilt="-16.94" skinid="ht_node" pan="-299.11" id="Point02" title="Музей УЖД 1 этаж" description="" url="{node40}"/>
+      <hotspot distance="42.6055" target="" tilt="13.67" skinid="ht_node" pan="-251.92" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="214.595" target="" tilt="11.23" skinid="ht_node" pan="-291.9" id="Point04" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input height="4821" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4821" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4821" width="4821" predecode="0" preload="0"/>
+      <level height="2410" width="2410" predecode="0" preload="0"/>
+      <level height="1205" width="1205" predecode="0" preload="0"/>
+      <level height="602" width="602" predecode="0" preload="0"/>
+      <level height="301" width="301" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="115.299" fovmode="0">
+      <start tilt="-0.560295" pan="5.05712" fov="100.945" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node44" author="" longitude="60.64354419" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81786738" copyright="" datetime="2021.10.23" title="Лаборатория &quot;Управление паровозом&quot;" description="Лаборатория &quot;Управление паровозом&quot;" heading="115.299"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="34.2878" target="" tilt="29.82" skinid="ht_node" pan="-13.28" id="Point01" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="7.65697" target="" tilt="-5.37" skinid="ht_node" pan="-232.72" id="Point02" title="Паровозное депо" description="" url="{node46}"/>
+      <hotspot distance="19.6163" target="" tilt="3.88" skinid="ht_node" pan="-40.64" id="Point04" title="Выставочные пути Музея УЖД" description="" url="{node24}"/>
+      <hotspot distance="259.95" target="" tilt="35.23" skinid="ht_node" pan="-127.18" id="Point06" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="175.58" target="" tilt="35.88" skinid="ht_node" pan="-204.55" id="Point05" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+      <hotspot distance="6.85177" target="" tilt="-5.6" skinid="ht_node" pan="-324.29" id="Point03" title="Лекторий &quot;Локомотивное хозяйство&quot;" description="" url="{node49}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input height="4848" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4848" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4848" width="4848" predecode="0" preload="0"/>
+      <level height="2424" width="2424" predecode="0" preload="0"/>
+      <level height="1212" width="1212" predecode="0" preload="0"/>
+      <level height="606" width="606" predecode="0" preload="0"/>
+      <level height="303" width="303" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="65.7381" fovmode="0">
+      <start tilt="0.0759243" pan="5.12743" fov="99.1462" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node45" author="" longitude="60.64349190" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81791362" copyright="" datetime="2021.10.23" title="Паровозное депо" description="Паровозное депо" heading="65.7381"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="9.77923" target="" tilt="-14.22" skinid="ht_node" pan="-19.61" id="Point01" title="Паровозное депо" description="" url="{node46}"/>
+      <hotspot distance="17.8233" target="" tilt="-6.32" skinid="ht_node" pan="-20.58" id="Point02" title="Паровозное депо" description="" url="{node48}"/>
+      <hotspot distance="24.4951" target="" tilt="1.44" skinid="ht_node" pan="-21.56" id="Point03" title="Паровозное депо" description="" url="{node47}"/>
+      <hotspot distance="39.4907" target="" tilt="48.49" skinid="ht_node" pan="-33.17" id="Point04" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="258.143" target="" tilt="61.04" skinid="ht_node" pan="-177.42" id="Point05" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="172.562" target="" tilt="45.57" skinid="ht_node" pan="-289.96" id="Point06" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node46">
+    <input height="4853" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4853" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4853" width="4853" predecode="0" preload="0"/>
+      <level height="2426" width="2426" predecode="0" preload="0"/>
+      <level height="1213" width="1213" predecode="0" preload="0"/>
+      <level height="606" width="606" predecode="0" preload="0"/>
+      <level height="303" width="303" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="303.487" fovmode="0">
+      <start tilt="1.47969" pan="-37.4117" fov="87.6386" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node46" author="" longitude="60.64365149" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81790334" copyright="" datetime="2021.10.23" title="Паровозное депо" description="Паровозное депо" heading="303.487"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="8.07981" target="" tilt="-17.67" skinid="ht_node" pan="-149.84" id="Point01" title="Паровозное депо" description="" url="{node48}"/>
+      <hotspot distance="14.7775" target="" tilt="-0.7" skinid="ht_node" pan="-152.12" id="Point02" title="Паровозное депо" description="" url="{node47}"/>
+      <hotspot distance="9.77923" target="" tilt="-3.89" skinid="ht_node" pan="-336.09" id="Point04" title="Паровозное депо" description="" url="{node45}"/>
+      <hotspot distance="7.65697" target="" tilt="-6.92" skinid="ht_node" pan="-295.46" id="Point05" title="Лаборатория &quot;Управление паровозом&quot;" description="" url="{node44}"/>
+      <hotspot distance="38.9751" target="" tilt="52.96" skinid="ht_node" pan="-166.89" id="Point06" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="267.253" target="" tilt="55.53" skinid="ht_node" pan="-310.39" id="Point07" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="182.217" target="" tilt="24.1" skinid="ht_node" pan="-124.83" id="Point08" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node48">
+    <input height="4814" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4814" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4814" width="4814" predecode="0" preload="0"/>
+      <level height="2407" width="2407" predecode="0" preload="0"/>
+      <level height="1203" width="1203" predecode="0" preload="0"/>
+      <level height="601" width="601" predecode="0" preload="0"/>
+      <level height="300" width="300" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.320968" pan="-41.9192" fov="107.101" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node48" author="" longitude="60.64378425" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81790407" copyright="" datetime="2021.10.23" title="Паровозное депо" description="Паровозное депо" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="8.07981" target="" tilt="-17.4" skinid="ht_node" pan="-282.94" id="Point01" title="Паровозное депо" description="" url="{node46}"/>
+      <hotspot distance="17.8233" target="" tilt="-4.68" skinid="ht_node" pan="-279.5" id="Point02" title="Паровозное депо" description="" url="{node45}"/>
+      <hotspot distance="8.33631" target="" tilt="-7.3" skinid="ht_node" pan="-112.07" id="Point03" title="Лекторий &quot;Локомотивное хозяйство&quot;" description="" url="{node49}"/>
+      <hotspot distance="6.70044" target="" tilt="0.92" skinid="ht_node" pan="-87.21" id="Point05" title="Паровозное депо" description="" url="{node47}"/>
+      <hotspot distance="41.3431" target="" tilt="65.02" skinid="ht_node" pan="-116.2" id="Point06" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="275.111" target="" tilt="32.12" skinid="ht_node" pan="-270.06" id="Point07" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="190.294" target="" tilt="42.89" skinid="ht_node" pan="-350.71" id="Point08" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input height="4865" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4865" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4865" width="4865" predecode="0" preload="0"/>
+      <level height="2432" width="2432" predecode="0" preload="0"/>
+      <level height="1216" width="1216" predecode="0" preload="0"/>
+      <level height="608" width="608" predecode="0" preload="0"/>
+      <level height="304" width="304" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-18.3544" fovmode="0">
+      <start tilt="-1.13394" pan="-153.018" fov="120" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node47" author="" longitude="60.64389422" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81790701" copyright="" datetime="2021.10.23" title="Паровозное депо" description="Паровозное депо" heading="-18.3544"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="5.72662" target="" tilt="-8.93" skinid="ht_node" pan="-159.22" id="Point01" title="Лаборатория &quot;Силовые установки железнодорожного транспорта &quot;" description="" url="{node50}"/>
+      <hotspot distance="6.70044" target="" tilt="-20.43" skinid="ht_node" pan="-277.79" id="Point02" title="Паровозное депо" description="" url="{node48}"/>
+      <hotspot distance="24.4951" target="" tilt="-1.92" skinid="ht_node" pan="-282.52" id="Point04" title="Паровозное депо" description="" url="{node45}"/>
+      <hotspot distance="44.5611" target="" tilt="74.41" skinid="ht_node" pan="-244.17" id="Point06" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="281.69" target="" tilt="25.09" skinid="ht_node" pan="-275.67" id="Point03" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="196.994" target="" tilt="51.34" skinid="ht_node" pan="-324.97" id="Point05" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node49">
+    <input height="4821" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4821" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4821" width="4821" predecode="0" preload="0"/>
+      <level height="2410" width="2410" predecode="0" preload="0"/>
+      <level height="1205" width="1205" predecode="0" preload="0"/>
+      <level height="602" width="602" predecode="0" preload="0"/>
+      <level height="301" width="301" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-123.5" fovmode="0">
+      <start tilt="-1.27338" pan="19.4913" fov="93.5337" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node49" author="" longitude="60.64365416" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81788059" copyright="" datetime="2021.10.23" title="Лекторий &quot;Локомотивное хозяйство&quot;" description="Лекторий &quot;Локомотивное хозяйство&quot;" heading="-123.5"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="6.85177" target="" tilt="-9.58" skinid="ht_node" pan="-10.86" id="Point01" title="Лаборатория &quot;Управление паровозом&quot;" description="" url="{node44}"/>
+      <hotspot distance="8.33631" target="" tilt="-2.41" skinid="ht_node" pan="-133.53" id="Point02" title="Паровозное депо" description="" url="{node48}"/>
+      <hotspot distance="36.5269" target="" tilt="19.31" skinid="ht_node" pan="-222.25" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="266.8" target="" tilt="19.33" skinid="ht_node" pan="-343.59" id="Point04" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="42.9962" target="" tilt="4.42" skinid="ht_node" pan="-286.06" id="Point05" title="Выставочные пути Музея УЖД" description="" url="{node25}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node50">
+    <input height="4120" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4120" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4120" width="4120" predecode="0" preload="0"/>
+      <level height="2060" width="2060" predecode="0" preload="0"/>
+      <level height="1030" width="1030" predecode="0" preload="0"/>
+      <level height="515" width="515" predecode="0" preload="0"/>
+      <level height="257" width="257" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0.814801" fovmode="0">
+      <start tilt="-1.25714" pan="-38.7605" fov="117.409" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node50" author="" longitude="60.64388752" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81785564" copyright="" datetime="2021.10.23" title="Лаборатория &quot;Силовые установки железнодорожного транспорта &quot;" description="Лаборатория &quot;Силовые установки железнодорожного транспорта &quot;" heading="0.814801"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="5.72662" target="" tilt="-7.89" skinid="ht_node" pan="-227.95" id="Point01" title="Паровозное депо" description="" url="{node47}"/>
+      <hotspot distance="39.4779" target="" tilt="49.65" skinid="ht_node" pan="-76.7" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="196.456" target="" tilt="27.77" skinid="ht_node" pan="-210.45" id="Point02" title="Свердловская детская железная дорога" description="" url="{node53}"/>
+      <hotspot distance="280.007" target="" tilt="24.11" skinid="ht_node" pan="-129.42" id="Point04" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input height="4186" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4186" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4186" width="4186" predecode="0" preload="0"/>
+      <level height="2093" width="2093" predecode="0" preload="0"/>
+      <level height="1046" width="1046" predecode="0" preload="0"/>
+      <level height="523" width="523" predecode="0" preload="0"/>
+      <level height="261" width="261" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="109.929" fovmode="0">
+      <start tilt="1.28801" pan="-11.1178" fov="80.8869" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node41" author="" longitude="60.64666093" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81689116" copyright="" datetime="2021.10.23" title=" ДТ Кванториум 1 этаж" description=" ДТ Кванториум 1 этаж" heading="109.929"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="204.462" target="" tilt="20.48" skinid="ht_node" pan="-158.87" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="5.06279" target="" tilt="-7.86" skinid="ht_node" pan="-323.49" id="Point04" title=" ДТ Кванториум 1 этаж" description=" ДТ Кванториум, 1 этаж" url="{node42}"/>
+      <hotspot distance="444.679" target="" tilt="-5.51" skinid="ht_node" pan="-51.71" id="Point01" title=" ДТ Кванториум 1 этаж" description="" url="{node52}"/>
+      <hotspot distance="444.679" target="" tilt="19.03" skinid="ht_node" pan="-119.93" id="Point05" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="78.7915" target="" tilt="10.77" skinid="ht_node" pan="-227.48" id="Point02" title="Выставочные пути Музея УЖД" description="" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input height="4120" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4120" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4120" width="4120" predecode="0" preload="0"/>
+      <level height="2060" width="2060" predecode="0" preload="0"/>
+      <level height="1030" width="1030" predecode="0" preload="0"/>
+      <level height="515" width="515" predecode="0" preload="0"/>
+      <level height="257" width="257" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="238.136" fovmode="0">
+      <start tilt="1.52559" pan="18.7746" fov="95.6867" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node42" author="" longitude="60.64673871" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81687501" copyright="" datetime="2021.10.23" title=" ДТ Кванториум 1 этаж" description=" ДТ Кванториум 1 этаж" heading="238.136"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="5.06279" target="" tilt="-8.02" skinid="ht_node" pan="-26.85" id="Point01" title=" ДТ Кванториум 1 этаж" description="" url="{node41}"/>
+      <hotspot distance="209.525" target="" tilt="15.28" skinid="ht_node" pan="-34.19" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="82.7692" target="" tilt="15.71" skinid="ht_node" pan="-116.74" id="Point03" title="Выставочные пути Музея УЖД" description="" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node52">
+    <input height="4117" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4117" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4117" width="4117" predecode="0" preload="0"/>
+      <level height="2058" width="2058" predecode="0" preload="0"/>
+      <level height="1029" width="1029" predecode="0" preload="0"/>
+      <level height="514" width="514" predecode="0" preload="0"/>
+      <level height="257" width="257" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.540125" pan="8.82873" fov="98.5787" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node52" author="" longitude="60.63939482" source="" comment="" info="" tags="_Музей-итоги" latitude="56.81731248" copyright="" datetime="2021.10.23" title=" ДТ Кванториум 1 этаж" description=" ДТ Кванториум 1 этаж" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="444.679" target="" tilt="-5.33" skinid="ht_node" pan="-304.55" id="Point01" title=" ДТ Кванториум 1 этаж" description="" url="{node41}"/>
+      <hotspot distance="253.196" target="" tilt="19.19" skinid="ht_node" pan="-238.4" id="Point03" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot target="" tilt="19.82" skinid="ht_node" pan="-203.94" id="Point04" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node53">
+    <input height="4000" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4000" levelbias="0.400" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="4000" width="4000" predecode="0" preload="0"/>
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="210.712" fovmode="0">
+      <start tilt="-5.89271" pan="12.3522" fov="84.7499" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata customnodeid="" nodeid="node53" author="" longitude="60.64065948" source="" comment="" info="" tags="ДЖД -готовые панорамы для проекта" latitude="56.81784097" copyright="" datetime="2021.10.23" title="Свердловская детская железная дорога" description="Свердловская детская железная дорога" heading="210.712"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" enabled="1" background="1" textcolor="0x000000" borderalpha="1" width="180" backgroundcolor="0xf40000" wordwrap="1" textalpha="1" borderradius="1" border="1" bordercolor="0xadadad" backgroundalpha="1"/>
+      <polystyle handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="96.8343" target="" tilt="0" skinid="ht_node" pan="338.075" id="Point01" title="Свердловская детская железная дорога" description="" url="{node13}"/>
+      <hotspot distance="177.529" target="" tilt="4.21" skinid="ht_node" pan="-237.37" id="Point02" title="Свердловская детская железная дорога" description="" url="{node14}"/>
+      <hotspot distance="131.03" target="" tilt="-14.13" skinid="ht_node" pan="-247.98" id="Point03" title="Музей УЖД 2 этаж" description="" url="{node33}"/>
+      <hotspot distance="172.562" target="" tilt="-10.03" skinid="ht_node" pan="-228.91" id="Point04" title="Паровозное депо" description="" url="{node45}"/>
+      <hotspot distance="70.9231" target="" tilt="-20.22" skinid="ht_node" pan="-0.765526" id="Point05" title="Станция &quot;Екатерибург-Детский&quot; " description="" url="{node15}"/>
+      <hotspot distance="66.6031" target="" tilt="-21.88" skinid="ht_node" pan="-311.38" id="Point06" title="Станция &quot;Екатерибург-Детский&quot; " description="" url="{node16}"/>
+      <hotspot distance="96.8343" target="" tilt="-16.32" skinid="ht_node" pan="-285.63" id="Point07" title="Станция &quot;Екатерибург-Детский&quot; " description="" url="{node17}"/>
+      <hotspot distance="380.2" target="" tilt="-4.21" skinid="ht_node" pan="-250.3" id="Point08" title=" ДТ Кванториум 1 этаж" description="" url="{node41}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="0.2" zoomafteroutfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" zoomoutpause="1" zoomspeed="1" zoomin="0" zoomafterinfov="90" type="crossdissolve"/>
+    <autorotate startloaded="0" returntohorizon="0.000" enabled="1" nodefilter="" delay="7.00" useanimation="0" noderandom="1" nodedelay="0.00" speed="0.100"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control sensitivity="8" speedwheel="1" contextprojections="0" rubberband="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" nodeid="master" author="" longitude="" source="" comment="" info="" tags="" latitude="" copyright="" datetime="" title="" description="" heading="0"/>
+  </masternode>
+</tour>
